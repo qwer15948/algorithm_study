@@ -1,6 +1,5 @@
 //memory usage : 5804KB, Time required: 44ms
 #include <iostream>
-#include <vector>
 
 using namespace std;
 int  **quick;
