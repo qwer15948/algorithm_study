@@ -1,4 +1,4 @@
-BAEKJOON greedy algorithm
+/BAEKJOON greedy algorithm
 https://www.acmicpc.net/step/33
 
 #11047
@@ -7,3 +7,16 @@ https://www.acmicpc.net/step/33
 #1541
 
 2020/08/13 ~ 2020/08/20
+
+#1041
+#13164
+#11501
+
+2020/08/23 ~ 2020/08/27
+
+
+#2138 전구와 스위치
+#2785 체인
+#12915 대회 개최
+
+2020/08/28 ~ 2020/09/03
