@@ -29,7 +29,7 @@ int main(){
 	int conypos = posy[(n-1)/2];
 	
 	
-	int distance = 0;
+	long long int distance = 0;
 	
 	for(i=0;i<n;i++){
 		if((conxpos - posx[i]) >= 0) distance += conxpos - posx[i];
