@@ -1,4 +1,4 @@
-//Memory usage: 1228KB, Time required: 4352ms
+//Memory usage: 2016KB, Time required: 0ms
 #include <iostream>
 using namespace std;
 
